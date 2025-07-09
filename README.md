@@ -1,5 +1,5 @@
 # Project summary
-Dataset: Cleveland Museum of Art API Data.JSON
+Dataset: Cleveland Museum of Art Dataset downloaded from CMA open their open access github repository
 
 
 
