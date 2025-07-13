@@ -8,7 +8,8 @@ Dataset: Cleveland Museum of Art Dataset downloaded from CMA open their open acc
 
 
 # Design choices
-three classes
+
+
 
 
 
