@@ -1,6 +1,5 @@
 # Project summary
-Dataset: Cleveland Museum of Art Dataset downloaded from CMA open their open access github repository
-
+Dataset: Cleveland Museum of Art Dataset from their open access repo
 
 
 
@@ -15,4 +14,13 @@ Dataset: Cleveland Museum of Art Dataset downloaded from CMA open their open acc
 
 
 
-# Division of group work & Yunfei Guo
+# Division of group work
+Ziqi: 
+1. Dataset collection, Data Pre-processing, cleaning, 5000 sampling
+2. Define the base class "Artifact" with selected attributes of the dataset
+3. to_rdf - w.i.p
+
+
+
+Yufei:
+1. wiki-data enrich: class1.ipynb
