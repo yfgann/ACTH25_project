@@ -1,0 +1,140 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://example.org/cma/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://example.org/cma/artist/11810> a ns1:OrgArtist ;
+    ns1:creatorOf <http://example.org/cma/artwork/123679>,
+        <http://example.org/cma/artwork/125207>,
+        <http://example.org/cma/artwork/141290> ;
+    foaf:name "Saint Cloud Porcelain Factory" .
+
+<http://example.org/cma/artist/11813> a ns1:OrgArtist ;
+    ns1:creatorOf <http://example.org/cma/artwork/125723> ;
+    foaf:name "Chantilly Porcelain Factory" .
+
+<http://example.org/cma/artist/11883> a ns1:OrgArtist ;
+    ns1:creatorOf <http://example.org/cma/artwork/142470> ;
+    foaf:name "Sèvres Porcelain Factory" .
+
+<http://example.org/cma/artist/14014> a ns1:OrgArtist ;
+    ns1:creatorOf <http://example.org/cma/artwork/142466> ;
+    foaf:name "Mennecy Factory" .
+
+<http://example.org/cma/artist/14375> a ns1:OrgArtist ;
+    ns1:creatorOf <http://example.org/cma/artwork/117714> ;
+    foaf:name "Worcester Porcelain Factory" .
+
+<http://example.org/cma/artist/18265> a ns1:OrgArtist ;
+    ns1:creatorOf <http://example.org/cma/artwork/152003> ;
+    foaf:name "Chelsea Porcelain Factory" .
+
+<http://example.org/cma/artist/301841> a ns1:OrgArtist ;
+    ns1:creatorOf <http://example.org/cma/artwork/123676> ;
+    foaf:name "Vincennes Porcelain Manufactory" .
+
+<http://example.org/cma/artist/57145> a ns1:OrgArtist ;
+    ns1:creatorOf <http://example.org/cma/artwork/97996> ;
+    foaf:name "Longton Hall Porcelain Factory" .
+
+<http://example.org/cma/artwork/117714> a ns1:Ceramic ;
+    rdfs:label "Punch Bowl" ;
+    ns1:culture "['England, Worcester']" ;
+    ns1:technique "soft-paste porcelain" ;
+    ns1:type "Ceramic" ;
+    dc:creator "Worcester Porcelain Factory (British, established 1751)" ;
+    dc:date "c. 1770" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60747758> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60747758> .
+
+<http://example.org/cma/artwork/123676> a ns1:Ceramic ;
+    rdfs:label "Covered Sugar Bowl (Pot à sucre)" ;
+    ns1:culture "['France, Vincennes']" ;
+    ns1:technique "soft-paste porcelain with enamel decoration" ;
+    ns1:type "Ceramic" ;
+    dc:creator "Vincennes Porcelain Manufactory (French, 1740–1756)" ;
+    dc:date "1745–48" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60741230> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60741230> .
+
+<http://example.org/cma/artwork/123679> a ns1:Ceramic ;
+    rdfs:label "Pair of Bottle Coolers (Seaux à rafraîchir)" ;
+    ns1:culture "['France, Saint Cloud, 18th century']" ;
+    ns1:technique "soft-paste porcelain with enamel and gilt decoration" ;
+    ns1:type "Ceramic" ;
+    dc:creator "Saint Cloud Porcelain Factory (French)" ;
+    dc:date "c. 1730" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60757337> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60757337> .
+
+<http://example.org/cma/artwork/125207> a ns1:Ceramic ;
+    rdfs:label "Caster (Saupoudreuse)" ;
+    ns1:culture "['France, Saint Cloud, 18th century']" ;
+    ns1:technique "soft-paste porcelain, silver mount" ;
+    ns1:type "Ceramic" ;
+    dc:creator "Saint Cloud Porcelain Factory (French)" ;
+    dc:date "c. 1732–38" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60753500> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60753500> .
+
+<http://example.org/cma/artwork/125723> a ns1:Ceramic ;
+    rdfs:label "Figure of Budai or Hotei with Jar" ;
+    ns1:culture "['France, Chantilly, 18th century']" ;
+    ns1:technique "Tin-glazed soft-paste porcelain with enamel decoration" ;
+    ns1:type "Ceramic" ;
+    dc:creator "Chantilly Porcelain Factory (French)" ;
+    dc:date "c. 1735–40" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60757149> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60757149> .
+
+<http://example.org/cma/artwork/141290> a ns1:Ceramic ;
+    rdfs:label "Cane Handle (Poignée de canne)" ;
+    ns1:culture "['France, Saint Cloud, 18th century']" ;
+    ns1:technique "soft-paste porcelain with enamel decoration" ;
+    ns1:type "Ceramic" ;
+    dc:creator "Saint Cloud Porcelain Factory (French)" ;
+    dc:date "c. 1745" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60757924> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60757924> .
+
+<http://example.org/cma/artwork/142466> a ns1:Ceramic ;
+    rdfs:label "Potpourri Vase with Cover" ;
+    ns1:culture "['France, Vincennes']" ;
+    ns1:technique "soft-paste porcelain" ;
+    ns1:type "Ceramic" ;
+    dc:creator "Mennecy Factory (French)" ;
+    dc:date "c. 1750" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60778192> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60778192> .
+
+<http://example.org/cma/artwork/142470> a ns1:Ceramic ;
+    rdfs:label "Figure Group of Love Carried by the Three Graces" ;
+    ns1:culture "['France, Sèvres, 18th century']" ;
+    ns1:technique "unglazed soft-paste porcelain (biscuit)" ;
+    ns1:type "Ceramic" ;
+    dc:creator "Sèvres Porcelain Factory (French, est. 1756)" ;
+    dc:date "c. 1768–1778" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60780851> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60780851> .
+
+<http://example.org/cma/artwork/152003> a ns1:Ceramic ;
+    rdfs:label "Hen and Chicks Covered Tureen on Stand" ;
+    ns1:culture "['England, London, Chelsea']" ;
+    ns1:technique "soft-paste porcelain" ;
+    ns1:type "Ceramic" ;
+    dc:creator "Chelsea Porcelain Factory (Britain, London, 1745–84)" ;
+    dc:date "c. 1755" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60779948> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60779948> .
+
+<http://example.org/cma/artwork/97996> a ns1:Ceramic ;
+    rdfs:label "Figure of Britannia" ;
+    ns1:culture "['England, Staffordshire']" ;
+    ns1:technique "soft-paste porcelain" ;
+    ns1:type "Ceramic" ;
+    dc:creator "Longton Hall Porcelain Factory (British, Staffordshire, 1749–60)" ;
+    dc:date "c. 1756" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60747145> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60747145> .
+
