@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ex: <http://example.org/cma/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://example.org/cma/artist/14375> a ex:OrgArtist ;
+    ex:creatorOf <http://example.org/cma/artwork/117714> ;
+    foaf:name "Worcester Porcelain Factory" .
+
+<http://example.org/cma/artwork/117714> a ex:Ceramic ;
+    rdfs:label "Punch Bowl" ;
+    ex:culture "['England, Worcester']" ;
+    ex:technique "soft-paste porcelain" ;
+    ex:type "Ceramic" ;
+    dc:creator "Worcester Porcelain Factory (British, established 1751)" ;
+    dc:date "c. 1770" ;
+    owl:sameAs <https://www.wikidata.org/entity/Q60747758> ;
+    foaf:isPrimaryTopicOf <https://www.wikidata.org/wiki/Q60747758> .
+
