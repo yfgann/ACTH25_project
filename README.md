@@ -13,7 +13,7 @@ Dataset: Cleveland Museum of Art Dataset
 
 Ziqi:
 1. main.ipynb
-2. UML class diagram - w.i.p
+2. UML class diagram
 3. based on Yufeis class1.ipynb apply ML - w.i.p
 
 
