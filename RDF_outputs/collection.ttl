@@ -1,0 +1,555 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ex: <http://w3id.org/example/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex:artifact001 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist001 ;
+    dc:title "Artifact number 1" ;
+    crm:P55_has_current_location ex:museum001 .
+
+ex:artifact002 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist002 ;
+    dc:title "Artifact number 2" ;
+    crm:P55_has_current_location ex:museum002 .
+
+ex:artifact003 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist003 ;
+    dc:title "Artifact number 3" ;
+    crm:P55_has_current_location ex:museum003 .
+
+ex:artifact004 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist004 ;
+    dc:title "Artifact number 4" ;
+    crm:P55_has_current_location ex:museum004 .
+
+ex:artifact005 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist005 ;
+    dc:title "Artifact number 5" ;
+    crm:P55_has_current_location ex:museum005 .
+
+ex:artifact006 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist006 ;
+    dc:title "Artifact number 6" ;
+    crm:P55_has_current_location ex:museum006 .
+
+ex:artifact007 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist007 ;
+    dc:title "Artifact number 7" ;
+    crm:P55_has_current_location ex:museum007 .
+
+ex:artifact008 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist008 ;
+    dc:title "Artifact number 8" ;
+    crm:P55_has_current_location ex:museum008 .
+
+ex:artifact009 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist009 ;
+    dc:title "Artifact number 9" ;
+    crm:P55_has_current_location ex:museum009 .
+
+ex:artifact010 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist010 ;
+    dc:title "Artifact number 10" ;
+    crm:P55_has_current_location ex:museum010 .
+
+ex:artifact011 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist011 ;
+    dc:title "Artifact number 11" ;
+    crm:P55_has_current_location ex:museum011 .
+
+ex:artifact012 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist012 ;
+    dc:title "Artifact number 12" ;
+    crm:P55_has_current_location ex:museum012 .
+
+ex:artifact013 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist013 ;
+    dc:title "Artifact number 13" ;
+    crm:P55_has_current_location ex:museum013 .
+
+ex:artifact014 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist014 ;
+    dc:title "Artifact number 14" ;
+    crm:P55_has_current_location ex:museum014 .
+
+ex:artifact015 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist015 ;
+    dc:title "Artifact number 15" ;
+    crm:P55_has_current_location ex:museum015 .
+
+ex:artifact016 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist016 ;
+    dc:title "Artifact number 16" ;
+    crm:P55_has_current_location ex:museum016 .
+
+ex:artifact017 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist017 ;
+    dc:title "Artifact number 17" ;
+    crm:P55_has_current_location ex:museum017 .
+
+ex:artifact018 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist018 ;
+    dc:title "Artifact number 18" ;
+    crm:P55_has_current_location ex:museum018 .
+
+ex:artifact019 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist019 ;
+    dc:title "Artifact number 19" ;
+    crm:P55_has_current_location ex:museum019 .
+
+ex:artifact020 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist020 ;
+    dc:title "Artifact number 20" ;
+    crm:P55_has_current_location ex:museum020 .
+
+ex:artifact021 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist021 ;
+    dc:title "Artifact number 21" ;
+    crm:P55_has_current_location ex:museum021 .
+
+ex:artifact022 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist022 ;
+    dc:title "Artifact number 22" ;
+    crm:P55_has_current_location ex:museum022 .
+
+ex:artifact023 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist023 ;
+    dc:title "Artifact number 23" ;
+    crm:P55_has_current_location ex:museum023 .
+
+ex:artifact024 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist024 ;
+    dc:title "Artifact number 24" ;
+    crm:P55_has_current_location ex:museum024 .
+
+ex:artifact025 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist025 ;
+    dc:title "Artifact number 25" ;
+    crm:P55_has_current_location ex:museum025 .
+
+ex:artifact026 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist026 ;
+    dc:title "Artifact number 26" ;
+    crm:P55_has_current_location ex:museum026 .
+
+ex:artifact027 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist027 ;
+    dc:title "Artifact number 27" ;
+    crm:P55_has_current_location ex:museum027 .
+
+ex:artifact028 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist028 ;
+    dc:title "Artifact number 28" ;
+    crm:P55_has_current_location ex:museum028 .
+
+ex:artifact029 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist029 ;
+    dc:title "Artifact number 29" ;
+    crm:P55_has_current_location ex:museum029 .
+
+ex:artifact030 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist030 ;
+    dc:title "Artifact number 30" ;
+    crm:P55_has_current_location ex:museum030 .
+
+ex:artifact031 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist031 ;
+    dc:title "Artifact number 31" ;
+    crm:P55_has_current_location ex:museum031 .
+
+ex:artifact032 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist032 ;
+    dc:title "Artifact number 32" ;
+    crm:P55_has_current_location ex:museum032 .
+
+ex:artifact033 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist033 ;
+    dc:title "Artifact number 33" ;
+    crm:P55_has_current_location ex:museum033 .
+
+ex:artifact034 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist034 ;
+    dc:title "Artifact number 34" ;
+    crm:P55_has_current_location ex:museum034 .
+
+ex:artifact035 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist035 ;
+    dc:title "Artifact number 35" ;
+    crm:P55_has_current_location ex:museum035 .
+
+ex:artifact036 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist036 ;
+    dc:title "Artifact number 36" ;
+    crm:P55_has_current_location ex:museum036 .
+
+ex:artifact037 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist037 ;
+    dc:title "Artifact number 37" ;
+    crm:P55_has_current_location ex:museum037 .
+
+ex:artifact038 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist038 ;
+    dc:title "Artifact number 38" ;
+    crm:P55_has_current_location ex:museum038 .
+
+ex:artifact039 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist039 ;
+    dc:title "Artifact number 39" ;
+    crm:P55_has_current_location ex:museum039 .
+
+ex:artifact040 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist040 ;
+    dc:title "Artifact number 40" ;
+    crm:P55_has_current_location ex:museum040 .
+
+ex:artifact041 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist041 ;
+    dc:title "Artifact number 41" ;
+    crm:P55_has_current_location ex:museum041 .
+
+ex:artifact042 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist042 ;
+    dc:title "Artifact number 42" ;
+    crm:P55_has_current_location ex:museum042 .
+
+ex:artifact043 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist043 ;
+    dc:title "Artifact number 43" ;
+    crm:P55_has_current_location ex:museum043 .
+
+ex:artifact044 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist044 ;
+    dc:title "Artifact number 44" ;
+    crm:P55_has_current_location ex:museum044 .
+
+ex:artifact045 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist045 ;
+    dc:title "Artifact number 45" ;
+    crm:P55_has_current_location ex:museum045 .
+
+ex:artifact046 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist046 ;
+    dc:title "Artifact number 46" ;
+    crm:P55_has_current_location ex:museum046 .
+
+ex:artifact047 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist047 ;
+    dc:title "Artifact number 47" ;
+    crm:P55_has_current_location ex:museum047 .
+
+ex:artifact048 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist048 ;
+    dc:title "Artifact number 48" ;
+    crm:P55_has_current_location ex:museum048 .
+
+ex:artifact049 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist049 ;
+    dc:title "Artifact number 49" ;
+    crm:P55_has_current_location ex:museum049 .
+
+ex:artifact050 a crm:E22_Man-Made_Object ;
+    dc:creator ex:artist050 ;
+    dc:title "Artifact number 50" ;
+    crm:P55_has_current_location ex:museum050 .
+
+ex:artist001 a crm:E21_Person ;
+    rdfs:label "Artist 1" .
+
+ex:artist002 a crm:E21_Person ;
+    rdfs:label "Artist 2" .
+
+ex:artist003 a crm:E21_Person ;
+    rdfs:label "Artist 3" .
+
+ex:artist004 a crm:E21_Person ;
+    rdfs:label "Artist 4" .
+
+ex:artist005 a crm:E21_Person ;
+    rdfs:label "Artist 5" .
+
+ex:artist006 a crm:E21_Person ;
+    rdfs:label "Artist 6" .
+
+ex:artist007 a crm:E21_Person ;
+    rdfs:label "Artist 7" .
+
+ex:artist008 a crm:E21_Person ;
+    rdfs:label "Artist 8" .
+
+ex:artist009 a crm:E21_Person ;
+    rdfs:label "Artist 9" .
+
+ex:artist010 a crm:E21_Person ;
+    rdfs:label "Artist 10" .
+
+ex:artist011 a crm:E21_Person ;
+    rdfs:label "Artist 11" .
+
+ex:artist012 a crm:E21_Person ;
+    rdfs:label "Artist 12" .
+
+ex:artist013 a crm:E21_Person ;
+    rdfs:label "Artist 13" .
+
+ex:artist014 a crm:E21_Person ;
+    rdfs:label "Artist 14" .
+
+ex:artist015 a crm:E21_Person ;
+    rdfs:label "Artist 15" .
+
+ex:artist016 a crm:E21_Person ;
+    rdfs:label "Artist 16" .
+
+ex:artist017 a crm:E21_Person ;
+    rdfs:label "Artist 17" .
+
+ex:artist018 a crm:E21_Person ;
+    rdfs:label "Artist 18" .
+
+ex:artist019 a crm:E21_Person ;
+    rdfs:label "Artist 19" .
+
+ex:artist020 a crm:E21_Person ;
+    rdfs:label "Artist 20" .
+
+ex:artist021 a crm:E21_Person ;
+    rdfs:label "Artist 21" .
+
+ex:artist022 a crm:E21_Person ;
+    rdfs:label "Artist 22" .
+
+ex:artist023 a crm:E21_Person ;
+    rdfs:label "Artist 23" .
+
+ex:artist024 a crm:E21_Person ;
+    rdfs:label "Artist 24" .
+
+ex:artist025 a crm:E21_Person ;
+    rdfs:label "Artist 25" .
+
+ex:artist026 a crm:E21_Person ;
+    rdfs:label "Artist 26" .
+
+ex:artist027 a crm:E21_Person ;
+    rdfs:label "Artist 27" .
+
+ex:artist028 a crm:E21_Person ;
+    rdfs:label "Artist 28" .
+
+ex:artist029 a crm:E21_Person ;
+    rdfs:label "Artist 29" .
+
+ex:artist030 a crm:E21_Person ;
+    rdfs:label "Artist 30" .
+
+ex:artist031 a crm:E21_Person ;
+    rdfs:label "Artist 31" .
+
+ex:artist032 a crm:E21_Person ;
+    rdfs:label "Artist 32" .
+
+ex:artist033 a crm:E21_Person ;
+    rdfs:label "Artist 33" .
+
+ex:artist034 a crm:E21_Person ;
+    rdfs:label "Artist 34" .
+
+ex:artist035 a crm:E21_Person ;
+    rdfs:label "Artist 35" .
+
+ex:artist036 a crm:E21_Person ;
+    rdfs:label "Artist 36" .
+
+ex:artist037 a crm:E21_Person ;
+    rdfs:label "Artist 37" .
+
+ex:artist038 a crm:E21_Person ;
+    rdfs:label "Artist 38" .
+
+ex:artist039 a crm:E21_Person ;
+    rdfs:label "Artist 39" .
+
+ex:artist040 a crm:E21_Person ;
+    rdfs:label "Artist 40" .
+
+ex:artist041 a crm:E21_Person ;
+    rdfs:label "Artist 41" .
+
+ex:artist042 a crm:E21_Person ;
+    rdfs:label "Artist 42" .
+
+ex:artist043 a crm:E21_Person ;
+    rdfs:label "Artist 43" .
+
+ex:artist044 a crm:E21_Person ;
+    rdfs:label "Artist 44" .
+
+ex:artist045 a crm:E21_Person ;
+    rdfs:label "Artist 45" .
+
+ex:artist046 a crm:E21_Person ;
+    rdfs:label "Artist 46" .
+
+ex:artist047 a crm:E21_Person ;
+    rdfs:label "Artist 47" .
+
+ex:artist048 a crm:E21_Person ;
+    rdfs:label "Artist 48" .
+
+ex:artist049 a crm:E21_Person ;
+    rdfs:label "Artist 49" .
+
+ex:artist050 a crm:E21_Person ;
+    rdfs:label "Artist 50" .
+
+ex:museum001 a crm:E53_Place ;
+    rdfs:label "Museum 1" .
+
+ex:museum002 a crm:E53_Place ;
+    rdfs:label "Museum 2" .
+
+ex:museum003 a crm:E53_Place ;
+    rdfs:label "Museum 3" .
+
+ex:museum004 a crm:E53_Place ;
+    rdfs:label "Museum 4" .
+
+ex:museum005 a crm:E53_Place ;
+    rdfs:label "Museum 5" .
+
+ex:museum006 a crm:E53_Place ;
+    rdfs:label "Museum 6" .
+
+ex:museum007 a crm:E53_Place ;
+    rdfs:label "Museum 7" .
+
+ex:museum008 a crm:E53_Place ;
+    rdfs:label "Museum 8" .
+
+ex:museum009 a crm:E53_Place ;
+    rdfs:label "Museum 9" .
+
+ex:museum010 a crm:E53_Place ;
+    rdfs:label "Museum 10" .
+
+ex:museum011 a crm:E53_Place ;
+    rdfs:label "Museum 11" .
+
+ex:museum012 a crm:E53_Place ;
+    rdfs:label "Museum 12" .
+
+ex:museum013 a crm:E53_Place ;
+    rdfs:label "Museum 13" .
+
+ex:museum014 a crm:E53_Place ;
+    rdfs:label "Museum 14" .
+
+ex:museum015 a crm:E53_Place ;
+    rdfs:label "Museum 15" .
+
+ex:museum016 a crm:E53_Place ;
+    rdfs:label "Museum 16" .
+
+ex:museum017 a crm:E53_Place ;
+    rdfs:label "Museum 17" .
+
+ex:museum018 a crm:E53_Place ;
+    rdfs:label "Museum 18" .
+
+ex:museum019 a crm:E53_Place ;
+    rdfs:label "Museum 19" .
+
+ex:museum020 a crm:E53_Place ;
+    rdfs:label "Museum 20" .
+
+ex:museum021 a crm:E53_Place ;
+    rdfs:label "Museum 21" .
+
+ex:museum022 a crm:E53_Place ;
+    rdfs:label "Museum 22" .
+
+ex:museum023 a crm:E53_Place ;
+    rdfs:label "Museum 23" .
+
+ex:museum024 a crm:E53_Place ;
+    rdfs:label "Museum 24" .
+
+ex:museum025 a crm:E53_Place ;
+    rdfs:label "Museum 25" .
+
+ex:museum026 a crm:E53_Place ;
+    rdfs:label "Museum 26" .
+
+ex:museum027 a crm:E53_Place ;
+    rdfs:label "Museum 27" .
+
+ex:museum028 a crm:E53_Place ;
+    rdfs:label "Museum 28" .
+
+ex:museum029 a crm:E53_Place ;
+    rdfs:label "Museum 29" .
+
+ex:museum030 a crm:E53_Place ;
+    rdfs:label "Museum 30" .
+
+ex:museum031 a crm:E53_Place ;
+    rdfs:label "Museum 31" .
+
+ex:museum032 a crm:E53_Place ;
+    rdfs:label "Museum 32" .
+
+ex:museum033 a crm:E53_Place ;
+    rdfs:label "Museum 33" .
+
+ex:museum034 a crm:E53_Place ;
+    rdfs:label "Museum 34" .
+
+ex:museum035 a crm:E53_Place ;
+    rdfs:label "Museum 35" .
+
+ex:museum036 a crm:E53_Place ;
+    rdfs:label "Museum 36" .
+
+ex:museum037 a crm:E53_Place ;
+    rdfs:label "Museum 37" .
+
+ex:museum038 a crm:E53_Place ;
+    rdfs:label "Museum 38" .
+
+ex:museum039 a crm:E53_Place ;
+    rdfs:label "Museum 39" .
+
+ex:museum040 a crm:E53_Place ;
+    rdfs:label "Museum 40" .
+
+ex:museum041 a crm:E53_Place ;
+    rdfs:label "Museum 41" .
+
+ex:museum042 a crm:E53_Place ;
+    rdfs:label "Museum 42" .
+
+ex:museum043 a crm:E53_Place ;
+    rdfs:label "Museum 43" .
+
+ex:museum044 a crm:E53_Place ;
+    rdfs:label "Museum 44" .
+
+ex:museum045 a crm:E53_Place ;
+    rdfs:label "Museum 45" .
+
+ex:museum046 a crm:E53_Place ;
+    rdfs:label "Museum 46" .
+
+ex:museum047 a crm:E53_Place ;
+    rdfs:label "Museum 47" .
+
+ex:museum048 a crm:E53_Place ;
+    rdfs:label "Museum 48" .
+
+ex:museum049 a crm:E53_Place ;
+    rdfs:label "Museum 49" .
+
+ex:museum050 a crm:E53_Place ;
+    rdfs:label "Museum 50" .
+

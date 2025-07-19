@@ -8,8 +8,8 @@ Dataset: Cleveland Museum of Art Dataset
 
 
 # Division of group work
-Dataset collection, Data Pre-processing, cleaning, 5000 sampling
-Metadata in csm.json (add in ignore due to the large size)
+- Dataset collection, Data Pre-processing, cleaning, 5000 sampling
+- Metadata in csm.json (add in ignore due to the large size)
 
 Ziqi:
 1. main.ipynb
