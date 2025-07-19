@@ -1,26 +1,21 @@
 # Project summary
-Dataset: Cleveland Museum of Art Dataset from their open access repo
-
-
-
-
+Dataset: Cleveland Museum of Art Dataset
 
 
 # Design choices
-
-
-
-
-
+1. CMA open access user-friendly
+2. Extensive Asian Art Collection, especially for Yufeis "Ceremics" subclass idea @yfgann
 
 
 # Division of group work
-Ziqi: 
-1. Dataset collection, Data Pre-processing, cleaning, 5000 sampling
-2. Define the base class "Artifact" with selected attributes of the dataset
-3. main.ipynb
+Dataset collection, Data Pre-processing, cleaning, 5000 sampling
 
+Ziqi:
+1. main.ipynb
+2. UML class diagram - w.i.p
+3. based on Yufeis class1.ipynb apply ML - w.i.p
 
 
 Yufei:
 class1.ipynb
+
