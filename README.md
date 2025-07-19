@@ -19,7 +19,8 @@ Ziqi:
 
 Yufei:
 1. class1.ipynb
-2. subclass "Ceremics" 
-3. RDF Graph visualization
+2. subclass "Ceremics"
+3. subclass Humanartist and Orgartist
+4. RDF Graph visualization - 10 artworks demo
 
 
