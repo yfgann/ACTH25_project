@@ -9,6 +9,7 @@ Dataset: Cleveland Museum of Art Dataset
 
 # Division of group work
 Dataset collection, Data Pre-processing, cleaning, 5000 sampling
+Metadata in csm.json (add in ignore due to the large size)
 
 Ziqi:
 1. main.ipynb
@@ -17,5 +18,8 @@ Ziqi:
 
 
 Yufei:
-class1.ipynb
+1. class1.ipynb
+2. subclass "Ceremics" 
+3. RDF Graph visualization
+
 
