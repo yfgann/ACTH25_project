@@ -14,8 +14,12 @@ Dataset: Cleveland Museum of Art Dataset
 Ziqi:
 1. main.ipynb
 2. UML class diagram: UML_Graphviz.png
-3. based on Yufeis class1.ipynb apply ML - w.i.p
+3. ML integration:
+    3.1 Text-based: analyse classification titles from 5000 extracted artworks from Chicago
+        Output visualization: wordcloud AIC.png
+    3.2 Image-based
 
+    
 
 Yufei:
 1. class1.ipynb
