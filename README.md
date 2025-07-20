@@ -14,8 +14,8 @@ Dataset: Cleveland Museum of Art Dataset
 Ziqi:
 1. main.ipynb
 2. UML class diagram: UML_Graphviz.png
-3. Text-based: analyse classification titles from 5000 extracted artworks, topic modelling. Output visualization: wordcloud AIC.png
-4. Image-based: data collection from AIC image API, ONLY 1402 artifacts has images, @yfgann continues for ML part
+3. Text-based: analyse classification titles from 5000 extracted artworks, aic_text_5000.csv. Topic modelling. Output visualization: wordcloud AIC.png
+4. Image-based: data collection from AIC image API, aic_images folder. @yfgann continues for ML part
 
    
 Yufei:
