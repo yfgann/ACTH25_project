@@ -1,21 +1,23 @@
 # Project summary
-Dataset: Cleveland Museum of Art Dataset
+Dataset: Cleveland Museum of Art Dataset & The Art Institute of Chicago
 
 
 # Design choices
-1. CMA open access user-friendly
+1. Both musuems provide open access user-friendly APIs
 2. Extensive Asian Art Collection, especially for Yufeis "Ceremics" subclass idea @yfgann
 
 
 # Division of group work
 - Dataset collection, Data Pre-processing, cleaning, 5000 sampling
-- Metadata in csm.json (add in ignore due to the large size)
+- Metadata Cleveland Museum of Art: csm.json (add in ignore due to the large size), Art Institute of Chicago: aic_text_5000.csv
 
 Ziqi:
 1. main.ipynb
 2. UML class diagram: UML_Graphviz.png
-3. Text-based: analyse classification titles from 5000 extracted artworks, aic_text_5000.csv. Topic modelling. Output visualization: wordcloud AIC.png
-4. Image-based: data collection from AIC image API, aic_images folder. @yfgann continues for ML part
+3. Text-based: analyse classification titles from 5000 extracted artworks: 
+    3.1 Topic modelling. Output visualization: wordcloud AIC.png 
+    3.2 cross museum title cluster; Output visualization: 2D maps of artifacts, titlecluster.png
+4. Image-based: data collection from AIC image API, aic_images folder. 
 
    
 Yufei:
