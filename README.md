@@ -23,5 +23,4 @@ Yufei:
 2. subclass "Ceremics"
 3. subclass Humanartist and Orgartist
 4. RDF Graph visualization - 10 artworks demo
-
-
+5. image-based ml with visualization to examine the ceramic art across regions
