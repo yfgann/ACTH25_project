@@ -22,8 +22,6 @@ Ziqi:
    
 Yufei:
 1. class1.ipynb
-2. subclass "Ceremics"
-3. subclass Humanartist and Orgartist
+2. subclass Ceremics, subclass HumanArtist and OrgArtist, Wikidata enrichment
 4. RDF Graph visualization - 10 artworks demo
-
-
+5. image-based ML with visualisation to examine the ceramic objects across regions
