@@ -9,7 +9,7 @@ Dataset: Cleveland Museum of Art Dataset & The Art Institute of Chicago
 
 # Division of group work
 - Dataset collection, Data Pre-processing, cleaning, 5000 sampling
-- Metadata: Cleveland Museum of Art: csm.json; Art Institute of Chicago: aic_text_5000.csv
+- Metadata: Cleveland Museum of Art: cma_5000.csv; Art Institute of Chicago: aic_text_5000.csv
 
 Ziqi:
 1. main.ipynb
