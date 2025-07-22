@@ -1,0 +1,60 @@
+@prefix ex: <http://example.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<http://example.org/artifact/A_Miller's_Carriage> a ex:Artifact ;
+    ex:creation_date "c. 1895" ;
+    ex:creator <http://example.org/creator/Albert-Charles_Lebourg_(French,_1849–1928)> ;
+    ex:title "A Miller's Carriage" ;
+    ex:url "https://clevelandart.org/art/2015.449" .
+
+<http://example.org/artifact/Fishmarket> a ex:Artifact ;
+    ex:creation_date "1902" ;
+    ex:creator <http://example.org/creator/Camille_Pissarro_(French,_1830–1903)> ;
+    ex:title "Fishmarket" ;
+    ex:url "https://clevelandart.org/art/2020.113" .
+
+<http://example.org/artifact/Leda_and_the_Swan> a ex:Artifact ;
+    ex:creation_date "c. 1846–83" ;
+    ex:creator <http://example.org/creator/Adolphe_Yvon_(French,_1817–1893)> ;
+    ex:title "Leda and the Swan" ;
+    ex:url "https://clevelandart.org/art/2015.451" .
+
+<http://example.org/artifact/Study_Sheet> a ex:Artifact ;
+    ex:creation_date "c. 1870–80" ;
+    ex:creator <http://example.org/creator/Alfred_Dehodencq_(French,_1822–1882)> ;
+    ex:title "Study Sheet" ;
+    ex:url "https://clevelandart.org/art/2018.1060" .
+
+<http://example.org/artifact/The_Monks> a ex:Artifact ;
+    ex:creation_date "c. 1802–30" ;
+    ex:creator <http://example.org/creator/François_Marius_Granet_(French,_1775–1849)> ;
+    ex:title "The Monks" ;
+    ex:url "https://clevelandart.org/art/2018.1059" .
+
+<http://example.org/creator/Adolphe_Yvon> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Adolphe Yvon" .
+
+<http://example.org/creator/Albert-Charles_Lebourg> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Albert-Charles Lebourg" .
+
+<http://example.org/creator/Camille_Pissarro> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Camille Pissarro" .
+
+<http://example.org/creator/Adolphe_Yvon_(French,_1817–1893)> a ex:Creator ;
+    ex:name "Adolphe Yvon (French, 1817–1893)" .
+
+<http://example.org/creator/Albert-Charles_Lebourg_(French,_1849–1928)> a ex:Creator ;
+    ex:name "Albert-Charles Lebourg (French, 1849–1928)" .
+
+<http://example.org/creator/Alfred_Dehodencq_(French,_1822–1882)> a ex:Creator ;
+    ex:name "Alfred Dehodencq (French, 1822–1882)" .
+
+<http://example.org/creator/Camille_Pissarro_(French,_1830–1903)> a ex:Creator ;
+    ex:name "Camille Pissarro (French, 1830–1903)" .
+
+<http://example.org/creator/François_Marius_Granet_(French,_1775–1849)> a ex:Creator ;
+    ex:name "François Marius Granet (French, 1775–1849)" .
+

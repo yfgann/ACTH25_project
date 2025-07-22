@@ -1,555 +1,346 @@
-@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
-@prefix dc: <http://purl.org/dc/elements/1.1/> .
-@prefix ex: <http://w3id.org/example/> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
-ex:artifact001 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist001 ;
-    dc:title "Artifact number 1" ;
-    crm:P55_has_current_location ex:museum001 .
-
-ex:artifact002 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist002 ;
-    dc:title "Artifact number 2" ;
-    crm:P55_has_current_location ex:museum002 .
-
-ex:artifact003 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist003 ;
-    dc:title "Artifact number 3" ;
-    crm:P55_has_current_location ex:museum003 .
-
-ex:artifact004 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist004 ;
-    dc:title "Artifact number 4" ;
-    crm:P55_has_current_location ex:museum004 .
-
-ex:artifact005 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist005 ;
-    dc:title "Artifact number 5" ;
-    crm:P55_has_current_location ex:museum005 .
-
-ex:artifact006 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist006 ;
-    dc:title "Artifact number 6" ;
-    crm:P55_has_current_location ex:museum006 .
-
-ex:artifact007 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist007 ;
-    dc:title "Artifact number 7" ;
-    crm:P55_has_current_location ex:museum007 .
-
-ex:artifact008 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist008 ;
-    dc:title "Artifact number 8" ;
-    crm:P55_has_current_location ex:museum008 .
-
-ex:artifact009 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist009 ;
-    dc:title "Artifact number 9" ;
-    crm:P55_has_current_location ex:museum009 .
-
-ex:artifact010 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist010 ;
-    dc:title "Artifact number 10" ;
-    crm:P55_has_current_location ex:museum010 .
-
-ex:artifact011 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist011 ;
-    dc:title "Artifact number 11" ;
-    crm:P55_has_current_location ex:museum011 .
-
-ex:artifact012 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist012 ;
-    dc:title "Artifact number 12" ;
-    crm:P55_has_current_location ex:museum012 .
-
-ex:artifact013 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist013 ;
-    dc:title "Artifact number 13" ;
-    crm:P55_has_current_location ex:museum013 .
-
-ex:artifact014 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist014 ;
-    dc:title "Artifact number 14" ;
-    crm:P55_has_current_location ex:museum014 .
-
-ex:artifact015 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist015 ;
-    dc:title "Artifact number 15" ;
-    crm:P55_has_current_location ex:museum015 .
-
-ex:artifact016 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist016 ;
-    dc:title "Artifact number 16" ;
-    crm:P55_has_current_location ex:museum016 .
-
-ex:artifact017 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist017 ;
-    dc:title "Artifact number 17" ;
-    crm:P55_has_current_location ex:museum017 .
-
-ex:artifact018 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist018 ;
-    dc:title "Artifact number 18" ;
-    crm:P55_has_current_location ex:museum018 .
-
-ex:artifact019 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist019 ;
-    dc:title "Artifact number 19" ;
-    crm:P55_has_current_location ex:museum019 .
-
-ex:artifact020 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist020 ;
-    dc:title "Artifact number 20" ;
-    crm:P55_has_current_location ex:museum020 .
-
-ex:artifact021 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist021 ;
-    dc:title "Artifact number 21" ;
-    crm:P55_has_current_location ex:museum021 .
-
-ex:artifact022 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist022 ;
-    dc:title "Artifact number 22" ;
-    crm:P55_has_current_location ex:museum022 .
-
-ex:artifact023 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist023 ;
-    dc:title "Artifact number 23" ;
-    crm:P55_has_current_location ex:museum023 .
-
-ex:artifact024 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist024 ;
-    dc:title "Artifact number 24" ;
-    crm:P55_has_current_location ex:museum024 .
-
-ex:artifact025 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist025 ;
-    dc:title "Artifact number 25" ;
-    crm:P55_has_current_location ex:museum025 .
-
-ex:artifact026 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist026 ;
-    dc:title "Artifact number 26" ;
-    crm:P55_has_current_location ex:museum026 .
-
-ex:artifact027 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist027 ;
-    dc:title "Artifact number 27" ;
-    crm:P55_has_current_location ex:museum027 .
-
-ex:artifact028 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist028 ;
-    dc:title "Artifact number 28" ;
-    crm:P55_has_current_location ex:museum028 .
-
-ex:artifact029 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist029 ;
-    dc:title "Artifact number 29" ;
-    crm:P55_has_current_location ex:museum029 .
-
-ex:artifact030 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist030 ;
-    dc:title "Artifact number 30" ;
-    crm:P55_has_current_location ex:museum030 .
-
-ex:artifact031 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist031 ;
-    dc:title "Artifact number 31" ;
-    crm:P55_has_current_location ex:museum031 .
-
-ex:artifact032 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist032 ;
-    dc:title "Artifact number 32" ;
-    crm:P55_has_current_location ex:museum032 .
-
-ex:artifact033 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist033 ;
-    dc:title "Artifact number 33" ;
-    crm:P55_has_current_location ex:museum033 .
-
-ex:artifact034 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist034 ;
-    dc:title "Artifact number 34" ;
-    crm:P55_has_current_location ex:museum034 .
-
-ex:artifact035 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist035 ;
-    dc:title "Artifact number 35" ;
-    crm:P55_has_current_location ex:museum035 .
-
-ex:artifact036 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist036 ;
-    dc:title "Artifact number 36" ;
-    crm:P55_has_current_location ex:museum036 .
-
-ex:artifact037 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist037 ;
-    dc:title "Artifact number 37" ;
-    crm:P55_has_current_location ex:museum037 .
-
-ex:artifact038 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist038 ;
-    dc:title "Artifact number 38" ;
-    crm:P55_has_current_location ex:museum038 .
-
-ex:artifact039 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist039 ;
-    dc:title "Artifact number 39" ;
-    crm:P55_has_current_location ex:museum039 .
-
-ex:artifact040 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist040 ;
-    dc:title "Artifact number 40" ;
-    crm:P55_has_current_location ex:museum040 .
-
-ex:artifact041 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist041 ;
-    dc:title "Artifact number 41" ;
-    crm:P55_has_current_location ex:museum041 .
-
-ex:artifact042 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist042 ;
-    dc:title "Artifact number 42" ;
-    crm:P55_has_current_location ex:museum042 .
-
-ex:artifact043 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist043 ;
-    dc:title "Artifact number 43" ;
-    crm:P55_has_current_location ex:museum043 .
-
-ex:artifact044 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist044 ;
-    dc:title "Artifact number 44" ;
-    crm:P55_has_current_location ex:museum044 .
-
-ex:artifact045 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist045 ;
-    dc:title "Artifact number 45" ;
-    crm:P55_has_current_location ex:museum045 .
-
-ex:artifact046 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist046 ;
-    dc:title "Artifact number 46" ;
-    crm:P55_has_current_location ex:museum046 .
-
-ex:artifact047 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist047 ;
-    dc:title "Artifact number 47" ;
-    crm:P55_has_current_location ex:museum047 .
-
-ex:artifact048 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist048 ;
-    dc:title "Artifact number 48" ;
-    crm:P55_has_current_location ex:museum048 .
-
-ex:artifact049 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist049 ;
-    dc:title "Artifact number 49" ;
-    crm:P55_has_current_location ex:museum049 .
-
-ex:artifact050 a crm:E22_Man-Made_Object ;
-    dc:creator ex:artist050 ;
-    dc:title "Artifact number 50" ;
-    crm:P55_has_current_location ex:museum050 .
-
-ex:artist001 a crm:E21_Person ;
-    rdfs:label "Artist 1" .
-
-ex:artist002 a crm:E21_Person ;
-    rdfs:label "Artist 2" .
-
-ex:artist003 a crm:E21_Person ;
-    rdfs:label "Artist 3" .
-
-ex:artist004 a crm:E21_Person ;
-    rdfs:label "Artist 4" .
-
-ex:artist005 a crm:E21_Person ;
-    rdfs:label "Artist 5" .
-
-ex:artist006 a crm:E21_Person ;
-    rdfs:label "Artist 6" .
-
-ex:artist007 a crm:E21_Person ;
-    rdfs:label "Artist 7" .
-
-ex:artist008 a crm:E21_Person ;
-    rdfs:label "Artist 8" .
-
-ex:artist009 a crm:E21_Person ;
-    rdfs:label "Artist 9" .
-
-ex:artist010 a crm:E21_Person ;
-    rdfs:label "Artist 10" .
-
-ex:artist011 a crm:E21_Person ;
-    rdfs:label "Artist 11" .
-
-ex:artist012 a crm:E21_Person ;
-    rdfs:label "Artist 12" .
-
-ex:artist013 a crm:E21_Person ;
-    rdfs:label "Artist 13" .
-
-ex:artist014 a crm:E21_Person ;
-    rdfs:label "Artist 14" .
-
-ex:artist015 a crm:E21_Person ;
-    rdfs:label "Artist 15" .
-
-ex:artist016 a crm:E21_Person ;
-    rdfs:label "Artist 16" .
-
-ex:artist017 a crm:E21_Person ;
-    rdfs:label "Artist 17" .
-
-ex:artist018 a crm:E21_Person ;
-    rdfs:label "Artist 18" .
-
-ex:artist019 a crm:E21_Person ;
-    rdfs:label "Artist 19" .
-
-ex:artist020 a crm:E21_Person ;
-    rdfs:label "Artist 20" .
-
-ex:artist021 a crm:E21_Person ;
-    rdfs:label "Artist 21" .
-
-ex:artist022 a crm:E21_Person ;
-    rdfs:label "Artist 22" .
-
-ex:artist023 a crm:E21_Person ;
-    rdfs:label "Artist 23" .
-
-ex:artist024 a crm:E21_Person ;
-    rdfs:label "Artist 24" .
-
-ex:artist025 a crm:E21_Person ;
-    rdfs:label "Artist 25" .
-
-ex:artist026 a crm:E21_Person ;
-    rdfs:label "Artist 26" .
-
-ex:artist027 a crm:E21_Person ;
-    rdfs:label "Artist 27" .
-
-ex:artist028 a crm:E21_Person ;
-    rdfs:label "Artist 28" .
-
-ex:artist029 a crm:E21_Person ;
-    rdfs:label "Artist 29" .
-
-ex:artist030 a crm:E21_Person ;
-    rdfs:label "Artist 30" .
-
-ex:artist031 a crm:E21_Person ;
-    rdfs:label "Artist 31" .
-
-ex:artist032 a crm:E21_Person ;
-    rdfs:label "Artist 32" .
-
-ex:artist033 a crm:E21_Person ;
-    rdfs:label "Artist 33" .
-
-ex:artist034 a crm:E21_Person ;
-    rdfs:label "Artist 34" .
-
-ex:artist035 a crm:E21_Person ;
-    rdfs:label "Artist 35" .
-
-ex:artist036 a crm:E21_Person ;
-    rdfs:label "Artist 36" .
-
-ex:artist037 a crm:E21_Person ;
-    rdfs:label "Artist 37" .
-
-ex:artist038 a crm:E21_Person ;
-    rdfs:label "Artist 38" .
-
-ex:artist039 a crm:E21_Person ;
-    rdfs:label "Artist 39" .
-
-ex:artist040 a crm:E21_Person ;
-    rdfs:label "Artist 40" .
-
-ex:artist041 a crm:E21_Person ;
-    rdfs:label "Artist 41" .
-
-ex:artist042 a crm:E21_Person ;
-    rdfs:label "Artist 42" .
-
-ex:artist043 a crm:E21_Person ;
-    rdfs:label "Artist 43" .
-
-ex:artist044 a crm:E21_Person ;
-    rdfs:label "Artist 44" .
-
-ex:artist045 a crm:E21_Person ;
-    rdfs:label "Artist 45" .
-
-ex:artist046 a crm:E21_Person ;
-    rdfs:label "Artist 46" .
-
-ex:artist047 a crm:E21_Person ;
-    rdfs:label "Artist 47" .
-
-ex:artist048 a crm:E21_Person ;
-    rdfs:label "Artist 48" .
-
-ex:artist049 a crm:E21_Person ;
-    rdfs:label "Artist 49" .
-
-ex:artist050 a crm:E21_Person ;
-    rdfs:label "Artist 50" .
-
-ex:museum001 a crm:E53_Place ;
-    rdfs:label "Museum 1" .
-
-ex:museum002 a crm:E53_Place ;
-    rdfs:label "Museum 2" .
-
-ex:museum003 a crm:E53_Place ;
-    rdfs:label "Museum 3" .
-
-ex:museum004 a crm:E53_Place ;
-    rdfs:label "Museum 4" .
-
-ex:museum005 a crm:E53_Place ;
-    rdfs:label "Museum 5" .
-
-ex:museum006 a crm:E53_Place ;
-    rdfs:label "Museum 6" .
-
-ex:museum007 a crm:E53_Place ;
-    rdfs:label "Museum 7" .
-
-ex:museum008 a crm:E53_Place ;
-    rdfs:label "Museum 8" .
-
-ex:museum009 a crm:E53_Place ;
-    rdfs:label "Museum 9" .
-
-ex:museum010 a crm:E53_Place ;
-    rdfs:label "Museum 10" .
-
-ex:museum011 a crm:E53_Place ;
-    rdfs:label "Museum 11" .
-
-ex:museum012 a crm:E53_Place ;
-    rdfs:label "Museum 12" .
-
-ex:museum013 a crm:E53_Place ;
-    rdfs:label "Museum 13" .
-
-ex:museum014 a crm:E53_Place ;
-    rdfs:label "Museum 14" .
-
-ex:museum015 a crm:E53_Place ;
-    rdfs:label "Museum 15" .
-
-ex:museum016 a crm:E53_Place ;
-    rdfs:label "Museum 16" .
-
-ex:museum017 a crm:E53_Place ;
-    rdfs:label "Museum 17" .
-
-ex:museum018 a crm:E53_Place ;
-    rdfs:label "Museum 18" .
-
-ex:museum019 a crm:E53_Place ;
-    rdfs:label "Museum 19" .
-
-ex:museum020 a crm:E53_Place ;
-    rdfs:label "Museum 20" .
-
-ex:museum021 a crm:E53_Place ;
-    rdfs:label "Museum 21" .
-
-ex:museum022 a crm:E53_Place ;
-    rdfs:label "Museum 22" .
-
-ex:museum023 a crm:E53_Place ;
-    rdfs:label "Museum 23" .
-
-ex:museum024 a crm:E53_Place ;
-    rdfs:label "Museum 24" .
-
-ex:museum025 a crm:E53_Place ;
-    rdfs:label "Museum 25" .
-
-ex:museum026 a crm:E53_Place ;
-    rdfs:label "Museum 26" .
-
-ex:museum027 a crm:E53_Place ;
-    rdfs:label "Museum 27" .
-
-ex:museum028 a crm:E53_Place ;
-    rdfs:label "Museum 28" .
-
-ex:museum029 a crm:E53_Place ;
-    rdfs:label "Museum 29" .
-
-ex:museum030 a crm:E53_Place ;
-    rdfs:label "Museum 30" .
-
-ex:museum031 a crm:E53_Place ;
-    rdfs:label "Museum 31" .
-
-ex:museum032 a crm:E53_Place ;
-    rdfs:label "Museum 32" .
-
-ex:museum033 a crm:E53_Place ;
-    rdfs:label "Museum 33" .
-
-ex:museum034 a crm:E53_Place ;
-    rdfs:label "Museum 34" .
-
-ex:museum035 a crm:E53_Place ;
-    rdfs:label "Museum 35" .
-
-ex:museum036 a crm:E53_Place ;
-    rdfs:label "Museum 36" .
-
-ex:museum037 a crm:E53_Place ;
-    rdfs:label "Museum 37" .
-
-ex:museum038 a crm:E53_Place ;
-    rdfs:label "Museum 38" .
-
-ex:museum039 a crm:E53_Place ;
-    rdfs:label "Museum 39" .
-
-ex:museum040 a crm:E53_Place ;
-    rdfs:label "Museum 40" .
-
-ex:museum041 a crm:E53_Place ;
-    rdfs:label "Museum 41" .
-
-ex:museum042 a crm:E53_Place ;
-    rdfs:label "Museum 42" .
-
-ex:museum043 a crm:E53_Place ;
-    rdfs:label "Museum 43" .
-
-ex:museum044 a crm:E53_Place ;
-    rdfs:label "Museum 44" .
-
-ex:museum045 a crm:E53_Place ;
-    rdfs:label "Museum 45" .
-
-ex:museum046 a crm:E53_Place ;
-    rdfs:label "Museum 46" .
-
-ex:museum047 a crm:E53_Place ;
-    rdfs:label "Museum 47" .
-
-ex:museum048 a crm:E53_Place ;
-    rdfs:label "Museum 48" .
-
-ex:museum049 a crm:E53_Place ;
-    rdfs:label "Museum 49" .
-
-ex:museum050 a crm:E53_Place ;
-    rdfs:label "Museum 50" .
+@prefix ex: <http://example.org/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<http://example.org/artifact/A_Caravan_in_the_Desert> a ex:Artifact ;
+    ex:creation_date "c. 1860s" ;
+    ex:creator <http://example.org/creator/Narcisse_Berchère_(French,_1819–1891)> ;
+    ex:title "A Caravan in the Desert" ;
+    ex:url "https://clevelandart.org/art/2019.61" .
+
+<http://example.org/artifact/A_Hunting_Party_at_Marly> a ex:Artifact ;
+    ex:creation_date "late 17th or early 18th century" ;
+    ex:creator <http://example.org/creator/Jean_Baptiste_Martin,_Le_Vieux_(French,_1659–1735)> ;
+    ex:title "A Hunting Party at Marly" ;
+    ex:url "https://clevelandart.org/art/2017.211" .
+
+<http://example.org/artifact/A_Miller's_Carriage> a ex:Artifact ;
+    ex:creation_date "c. 1895" ;
+    ex:creator <http://example.org/creator/Albert-Charles_Lebourg_(French,_1849–1928)> ;
+    ex:title "A Miller's Carriage" ;
+    ex:url "https://clevelandart.org/art/2015.449" .
+
+<http://example.org/artifact/A_Party_Picnicking_Near_a_Village> a ex:Artifact ;
+    ex:creation_date "c. 1760–70" ;
+    ex:creator <http://example.org/creator/Louis_Nicolas_van_Blarenberghe_(French,_1716–1794)> ;
+    ex:title "A Party Picnicking Near a Village" ;
+    ex:url "https://clevelandart.org/art/2019.63" .
+
+<http://example.org/artifact/Children_with_a_Donkey_(recto);_Landscape_(verso)> a ex:Artifact ;
+    ex:creation_date "c. 1850" ;
+    ex:creator <http://example.org/creator/Isidore_Pils_(French,_1813/15–1875)> ;
+    ex:title "Children with a Donkey (recto); Landscape (verso)" ;
+    ex:url "https://clevelandart.org/art/2015.441" .
+
+<http://example.org/artifact/Château_Interior> a ex:Artifact ;
+    ex:creation_date "1834" ;
+    ex:creator <http://example.org/creator/V._Germain_(French)> ;
+    ex:title "Château Interior" ;
+    ex:url "https://clevelandart.org/art/2018.1063" .
+
+<http://example.org/artifact/Costume_Study> a ex:Artifact ;
+    ex:creation_date "before 1852" ;
+    ex:creator <http://example.org/creator/Henri_Lehmann_(French,_1814–1882)> ;
+    ex:title "Costume Study" ;
+    ex:url "https://clevelandart.org/art/2018.43" .
+
+<http://example.org/artifact/Fishmarket> a ex:Artifact ;
+    ex:creation_date "1902" ;
+    ex:creator <http://example.org/creator/Camille_Pissarro_(French,_1830–1903)> ;
+    ex:title "Fishmarket" ;
+    ex:url "https://clevelandart.org/art/2020.113" .
+
+<http://example.org/artifact/Four_Oxen_Pulling_a_Plough> a ex:Artifact ;
+    ex:creation_date "1853" ;
+    ex:creator <http://example.org/creator/Constant_Troyon_(French,_1810–1865)> ;
+    ex:title "Four Oxen Pulling a Plough" ;
+    ex:url "https://clevelandart.org/art/2015.452" .
+
+<http://example.org/artifact/François_I_Brandishing_a_Sword> a ex:Artifact ;
+    ex:creation_date "c. 1815–30" ;
+    ex:creator <http://example.org/creator/Alexandre-Evariste_Fragonard_(French,_1781–1850)> ;
+    ex:title "François I Brandishing a Sword" ;
+    ex:url "https://clevelandart.org/art/2019.254" .
+
+<http://example.org/artifact/Genets_et_Ronces_(Broom_and_Brambles)> a ex:Artifact ;
+    ex:creation_date "1860s" ;
+    ex:creator <http://example.org/creator/Jules_Dupré_(French,_1811–1889)> ;
+    ex:title "Genets et Ronces (Broom and Brambles)" ;
+    ex:url "https://clevelandart.org/art/2015.450" .
+
+<http://example.org/artifact/Landscape_with_Shepherds> a ex:Artifact ;
+    ex:creation_date "c. 1869" ;
+    ex:creator <http://example.org/creator/Jules_Joseph_Augustin_Laurens_(French,_1825–1901)> ;
+    ex:title "Landscape with Shepherds" ;
+    ex:url "https://clevelandart.org/art/2015.455" .
+
+<http://example.org/artifact/Le_Petit_Trianon,_Versailles> a ex:Artifact ;
+    ex:creation_date "1700s" ;
+    ex:creator <http://example.org/creator/Louis-Nicolas_van_Blarenberghe_(French,_1716–1812)> ;
+    ex:title "Le Petit Trianon, Versailles" ;
+    ex:url "https://clevelandart.org/art/2017.210" .
+
+<http://example.org/artifact/Leda_and_the_Swan> a ex:Artifact ;
+    ex:creation_date "c. 1846–83" ;
+    ex:creator <http://example.org/creator/Adolphe_Yvon_(French,_1817–1893)> ;
+    ex:title "Leda and the Swan" ;
+    ex:url "https://clevelandart.org/art/2015.451" .
+
+<http://example.org/artifact/Les_Lavandières_(Washerwomen)> a ex:Artifact ;
+    ex:creation_date "1870–1880" ;
+    ex:creator <http://example.org/creator/Eugène_Cicéri_(French,_1813–1890)> ;
+    ex:title "Les Lavandières (Washerwomen)" ;
+    ex:url "https://clevelandart.org/art/2015.454" .
+
+<http://example.org/artifact/Nude_Study_of_an_Old_Man> a ex:Artifact ;
+    ex:creation_date "before 1852" ;
+    ex:creator <http://example.org/creator/Henri_Lehmann_(French,_1814–1882)> ;
+    ex:title "Nude Study of an Old Man" ;
+    ex:url "https://clevelandart.org/art/2018.44" .
+
+<http://example.org/artifact/Portrait_of_a_Seated_Woman> a ex:Artifact ;
+    ex:creation_date "18th-19th century" ;
+    ex:creator <http://example.org/creator/François-André_Vincent_(French,_1746–1816)> ;
+    ex:title "Portrait of a Seated Woman" ;
+    ex:url "https://clevelandart.org/art/2018.46" .
+
+<http://example.org/artifact/Profile_Portrait_of_a_Man> a ex:Artifact ;
+    ex:creation_date "18th century" ;
+    ex:creator <http://example.org/creator/Louis_Rolland_Trinquesse_(French,_c._1746–c._1800)> ;
+    ex:title "Profile Portrait of a Man" ;
+    ex:url "https://clevelandart.org/art/2018.41" .
+
+<http://example.org/artifact/Reclining_Nude_with_Cupid> a ex:Artifact ;
+    ex:creation_date "1700s" ;
+    ex:creator <http://example.org/creator/Giovanni_Battista_Cipriani_(Italian,_1727–1785)> ;
+    ex:title "Reclining Nude with Cupid" ;
+    ex:url "https://clevelandart.org/art/2019.257" .
+
+<http://example.org/artifact/Study_Sheet> a ex:Artifact ;
+    ex:creation_date "c. 1870–80" ;
+    ex:creator <http://example.org/creator/Alfred_Dehodencq_(French,_1822–1882)> ;
+    ex:title "Study Sheet" ;
+    ex:url "https://clevelandart.org/art/2018.1060" .
+
+<http://example.org/artifact/Study_for_a_Decoration_for_the_Salle_des_Fêtes_of_the_Town_Hall_of_Paris's_11th_arrondissement> a ex:Artifact ;
+    ex:creation_date "1897" ;
+    ex:creator <http://example.org/creator/Victor_Emile_Prouvé_(French,_1858–1943)> ;
+    ex:title "Study for a Decoration for the Salle des Fêtes of the Town Hall of Paris's 11th arrondissement" ;
+    ex:url "https://clevelandart.org/art/2015.453" .
+
+<http://example.org/artifact/The_Monks> a ex:Artifact ;
+    ex:creation_date "c. 1802–30" ;
+    ex:creator <http://example.org/creator/François_Marius_Granet_(French,_1775–1849)> ;
+    ex:title "The Monks" ;
+    ex:url "https://clevelandart.org/art/2018.1059" .
+
+<http://example.org/artifact/The_Pipes_of_Pan> a ex:Artifact ;
+    ex:creation_date "1865" ;
+    ex:creator <http://example.org/creator/Mariano_Fortuny_(Spanish,_1838–1874)> ;
+    ex:title "The Pipes of Pan" ;
+    ex:url "https://clevelandart.org/art/2015.446" .
+
+<http://example.org/artifact/The_Temptation_of_St._Anthony> a ex:Artifact ;
+    ex:creation_date "19th century" ;
+    ex:creator <http://example.org/creator/Julien_Léopold_Boilly_(French,_1796–1874)> ;
+    ex:title "The Temptation of St. Anthony" ;
+    ex:url "https://clevelandart.org/art/2018.42" .
+
+<http://example.org/artifact/Two_Boats_at_the_Harbor_of_Dieppe> a ex:Artifact ;
+    ex:creation_date "1854" ;
+    ex:creator <http://example.org/creator/Eugène_Delacroix_(French,_1798–1863)> ;
+    ex:title "Two Boats at the Harbor of Dieppe" ;
+    ex:url "https://clevelandart.org/art/2021.108" .
+
+<http://example.org/artifact/Two_Dolls_or_Puppets_Sitting_on_Cushions> a ex:Artifact ;
+    ex:creation_date "c. 1870–80" ;
+    ex:creator <http://example.org/creator/Henri_Joseph_Harpignies_(French,_1819–1916)> ;
+    ex:title "Two Dolls or Puppets Sitting on Cushions" ;
+    ex:url "https://clevelandart.org/art/2018.1061" .
+
+<http://example.org/artifact/Un_Borreau_(An_Executioner)> a ex:Artifact ;
+    ex:creation_date "c. 1848" ;
+    ex:creator <http://example.org/creator/Auguste_Raffet_(French,_1804–1860)> ;
+    ex:title "Un Borreau (An Executioner)" ;
+    ex:url "https://clevelandart.org/art/2015.447" .
+
+<http://example.org/artifact/Venus_at_the_Forge_of_Vulcan> a ex:Artifact ;
+    ex:creation_date "18th century" ;
+    ex:creator <http://example.org/creator/Louis_Félix_de_La_Rue_(French,_1731–1777)> ;
+    ex:title "Venus at the Forge of Vulcan" ;
+    ex:url "https://clevelandart.org/art/2017.212" .
+
+<http://example.org/artifact/Woman_Entering_a_Fiacre_(recto);_Right_Profile_of_Man_Wearing_Tall_Hat_(verso)> a ex:Artifact ;
+    ex:creation_date "probably late 1800s" ;
+    ex:creator <http://example.org/creator/Jean_Louis_Forain_(French,_1852–1931)> ;
+    ex:title "Woman Entering a Fiacre (recto); Right Profile of Man Wearing Tall Hat (verso)" ;
+    ex:url "https://clevelandart.org/art/2018.45" .
+
+<http://example.org/artifact/Women_in_an_Interior> a ex:Artifact ;
+    ex:creation_date "c. 1825–35" ;
+    ex:creator <http://example.org/creator/Paul_Delaroche_(French,_1797–1856)> ;
+    ex:title "Women in an Interior" ;
+    ex:url "https://clevelandart.org/art/2018.1062" .
+
+<http://example.org/creator/Adolphe_Yvon> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Adolphe Yvon" .
+
+<http://example.org/creator/Albert-Charles_Lebourg> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Albert-Charles Lebourg" .
+
+<http://example.org/creator/Alfred_Dehodencq> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Alfred Dehodencq" .
+
+<http://example.org/creator/Auguste_Raffet> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Auguste Raffet" .
+
+<http://example.org/creator/Camille_Pissarro> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Camille Pissarro" .
+
+<http://example.org/creator/Eugène_Delacroix> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Eugène Delacroix" .
+
+<http://example.org/creator/François_Marius_Granet> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "François Marius Granet" .
+
+<http://example.org/creator/Giovanni_Battista_Cipriani> a ex:Creator ;
+    ex:nationality "Italian" ;
+    foaf:name "Giovanni Battista Cipriani" .
+
+<http://example.org/creator/Henri_Joseph_Harpignies> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Henri Joseph Harpignies" .
+
+<http://example.org/creator/Henri_Lehmann> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Henri Lehmann" .
+
+<http://example.org/creator/Isidore_Pils> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Isidore Pils" .
+
+<http://example.org/creator/Jean_Baptiste_Martin,_Le_Vieux> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Jean Baptiste Martin, Le Vieux" .
+
+<http://example.org/creator/Jean_Louis_Forain> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Jean Louis Forain" .
+
+<http://example.org/creator/Julien_Léopold_Boilly> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Julien Léopold Boilly" .
+
+<http://example.org/creator/Louis-Nicolas_van_Blarenberghe> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Louis-Nicolas van Blarenberghe" .
+
+<http://example.org/creator/Louis_Rolland_Trinquesse> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Louis Rolland Trinquesse" .
+
+<http://example.org/creator/Mariano_Fortuny> a ex:Creator ;
+    ex:nationality "Spanish" ;
+    foaf:name "Mariano Fortuny" .
+
+<http://example.org/creator/Narcisse_Berchère> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Narcisse Berchère" .
+
+<http://example.org/creator/Paul_Delaroche> a ex:Creator ;
+    ex:nationality "French" ;
+    foaf:name "Paul Delaroche" .
+
+<http://example.org/creator/Adolphe_Yvon_(French,_1817–1893)> a ex:Creator ;
+    ex:name "Adolphe Yvon (French, 1817–1893)" .
+
+<http://example.org/creator/Albert-Charles_Lebourg_(French,_1849–1928)> a ex:Creator ;
+    ex:name "Albert-Charles Lebourg (French, 1849–1928)" .
+
+<http://example.org/creator/Alexandre-Evariste_Fragonard_(French,_1781–1850)> a ex:Creator ;
+    ex:name "Alexandre-Evariste Fragonard (French, 1781–1850)" .
+
+<http://example.org/creator/Alfred_Dehodencq_(French,_1822–1882)> a ex:Creator ;
+    ex:name "Alfred Dehodencq (French, 1822–1882)" .
+
+<http://example.org/creator/Auguste_Raffet_(French,_1804–1860)> a ex:Creator ;
+    ex:name "Auguste Raffet (French, 1804–1860)" .
+
+<http://example.org/creator/Camille_Pissarro_(French,_1830–1903)> a ex:Creator ;
+    ex:name "Camille Pissarro (French, 1830–1903)" .
+
+<http://example.org/creator/Constant_Troyon_(French,_1810–1865)> a ex:Creator ;
+    ex:name "Constant Troyon (French, 1810–1865)" .
+
+<http://example.org/creator/Eugène_Cicéri_(French,_1813–1890)> a ex:Creator ;
+    ex:name "Eugène Cicéri (French, 1813–1890)" .
+
+<http://example.org/creator/Eugène_Delacroix_(French,_1798–1863)> a ex:Creator ;
+    ex:name "Eugène Delacroix (French, 1798–1863)" .
+
+<http://example.org/creator/François-André_Vincent_(French,_1746–1816)> a ex:Creator ;
+    ex:name "François-André Vincent (French, 1746–1816)" .
+
+<http://example.org/creator/François_Marius_Granet_(French,_1775–1849)> a ex:Creator ;
+    ex:name "François Marius Granet (French, 1775–1849)" .
+
+<http://example.org/creator/Giovanni_Battista_Cipriani_(Italian,_1727–1785)> a ex:Creator ;
+    ex:name "Giovanni Battista Cipriani (Italian, 1727–1785)" .
+
+<http://example.org/creator/Henri_Joseph_Harpignies_(French,_1819–1916)> a ex:Creator ;
+    ex:name "Henri Joseph Harpignies (French, 1819–1916)" .
+
+<http://example.org/creator/Isidore_Pils_(French,_1813/15–1875)> a ex:Creator ;
+    ex:name "Isidore Pils (French, 1813/15–1875)" .
+
+<http://example.org/creator/Jean_Baptiste_Martin,_Le_Vieux_(French,_1659–1735)> a ex:Creator ;
+    ex:name "Jean Baptiste Martin, Le Vieux (French, 1659–1735)" .
+
+<http://example.org/creator/Jean_Louis_Forain_(French,_1852–1931)> a ex:Creator ;
+    ex:name "Jean Louis Forain (French, 1852–1931)" .
+
+<http://example.org/creator/Jules_Dupré_(French,_1811–1889)> a ex:Creator ;
+    ex:name "Jules Dupré (French, 1811–1889)" .
+
+<http://example.org/creator/Jules_Joseph_Augustin_Laurens_(French,_1825–1901)> a ex:Creator ;
+    ex:name "Jules Joseph Augustin Laurens (French, 1825–1901)" .
+
+<http://example.org/creator/Julien_Léopold_Boilly_(French,_1796–1874)> a ex:Creator ;
+    ex:name "Julien Léopold Boilly (French, 1796–1874)" .
+
+<http://example.org/creator/Louis-Nicolas_van_Blarenberghe_(French,_1716–1812)> a ex:Creator ;
+    ex:name "Louis-Nicolas van Blarenberghe (French, 1716–1812)" .
+
+<http://example.org/creator/Louis_Félix_de_La_Rue_(French,_1731–1777)> a ex:Creator ;
+    ex:name "Louis Félix de La Rue (French, 1731–1777)" .
+
+<http://example.org/creator/Louis_Nicolas_van_Blarenberghe_(French,_1716–1794)> a ex:Creator ;
+    ex:name "Louis Nicolas van Blarenberghe (French, 1716–1794)" .
+
+<http://example.org/creator/Louis_Rolland_Trinquesse_(French,_c._1746–c._1800)> a ex:Creator ;
+    ex:name "Louis Rolland Trinquesse (French, c. 1746–c. 1800)" .
+
+<http://example.org/creator/Mariano_Fortuny_(Spanish,_1838–1874)> a ex:Creator ;
+    ex:name "Mariano Fortuny (Spanish, 1838–1874)" .
+
+<http://example.org/creator/Narcisse_Berchère_(French,_1819–1891)> a ex:Creator ;
+    ex:name "Narcisse Berchère (French, 1819–1891)" .
+
+<http://example.org/creator/Paul_Delaroche_(French,_1797–1856)> a ex:Creator ;
+    ex:name "Paul Delaroche (French, 1797–1856)" .
+
+<http://example.org/creator/V._Germain_(French)> a ex:Creator ;
+    ex:name "V. Germain (French)" .
+
+<http://example.org/creator/Victor_Emile_Prouvé_(French,_1858–1943)> a ex:Creator ;
+    ex:name "Victor Emile Prouvé (French, 1858–1943)" .
+
+<http://example.org/creator/Henri_Lehmann_(French,_1814–1882)> a ex:Creator ;
+    ex:name "Henri Lehmann (French, 1814–1882)" .
 
