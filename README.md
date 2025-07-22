@@ -14,9 +14,10 @@ Dataset: Cleveland Museum of Art Dataset & The Art Institute of Chicago
 Ziqi:
 1. main.ipynb
 2. UML class diagram: UML_Graphviz.png
+3. RDF Graph Viz
 3. Text-based: 
     3.1 Topic modelling. Output visualization: wordcloud AIC.png 
-    3.2 Cross museum title cluster; Output visualization: 2D maps of artifacts, titlecluster.png
+    3.2 Cross museum title cluster; Output visualization: 2D maps of artifacts, titlecluster2d.png
 4. Image-based: data collection from AIC image API, aic_images folder.
 
    
